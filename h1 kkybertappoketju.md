@@ -63,6 +63,14 @@ Noudatettuani kaikkia vaiheita päädyin silti samaan tilanteeseen. En pääse k
 
 - <img width="705" alt="Screenshot 2025-04-03 at 15 37 24" src="https://github.com/user-attachments/assets/a6a3df56-c49b-4062-ada6-f370064de899" />
 
+##### Lähteet:
+
+https://www.youtube.com/watch?v=U09soewiu18
+https://terokarvinen.com/tunkeutumistestaus/
+https://darknetdiaries.com/episode/
+https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
+https://learning.oreilly.com/videos/the-art-of/9780135767849/9780135767849-SPTT_04_00/
+
 
 
 
